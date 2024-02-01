@@ -85,8 +85,47 @@ button{
 .about{
     color: #083D7D;
     padding-left: 75px;
-    margin-bottom: 0%;
+    margin-bottom: 50px;
     font-size: 50px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+.skills{
+    color: #083D7D;
+    padding-left: 75px;
+    margin-bottom: 50px;
+    font-size: 50px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+.certifications{
+    color: #083D7D;
+    padding-left: 75px;
+    margin-bottom: 50px;
+    font-size: 50px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+.certificates{
+    color: black;
+    padding-left: 175px;
+    font-size: 32px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+.contact{
+    width: 1510px;
+    height: 50px;
+    background: #bbc5c9;
+    padding-bottom: 0%;
+    padding-left: 20%;
+    margin-bottom: 0%;
+    color: black;
+    font-size: 24px;
     font-family: Inter;
     font-weight: 400;
     word-wrap: break-word;
